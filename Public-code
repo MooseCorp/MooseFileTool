@@ -1,0 +1,12 @@
+This is a public code release! You may modify this but you may not change the branding!
+@echo off
+title Moose File Tool unlicensed copy
+echo Creating files for location
+mkdir Moose_File_Tool
+DIR > files_unlicensed.txt
+echo.
+pause
+echo Please bring this app to where you want it to scan!
+echo.
+pause
+exit
